@@ -15,7 +15,7 @@ set :use_sudo, false
 # repo details
 set :scm, :git
 #set :git_username, "johndavid400"
-set :repository, "git@github.com:johndavid400/prototype_robotics.git"
+set :repository, "git@github.com:johndavid400/tester.git"
 set :branch, "staging"
 set :git_enable_submodules, 1
 
